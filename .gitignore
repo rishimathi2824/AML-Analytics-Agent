@@ -1,0 +1,4 @@
+.env
+aml.db
+__pycache__/
+*.csv
