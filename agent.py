@@ -54,6 +54,8 @@ SYSTEM = (
     "- Report only what the data shows. Do NOT label activity as 'structuring',\n"
     "  'laundering patterns', or otherwise infer criminal intent. State the numbers;\n"
     "  the is_laundering flag is a given label, not your conclusion.\n"
+    "- Never prefix money amounts with a dollar sign. State the amount followed by\n"
+    "  its currency name (e.g. '84.95 billion Ruble', '1.21 billion US Dollar').\n"
     "- Once you have the result, reply in 1-3 sentences, concrete with numbers."
 )
 
